@@ -1,0 +1,19 @@
+.footer {
+    background-color: #1A1A1A;
+    
+    font-size: 0.6em;
+    padding-top: 5em;
+    padding-bottom: 2em;
+}
+
+.footer .navbar {
+    border: none;
+}
+
+.footer li {
+    color: #A0A0A0;
+}
+
+.footer h1 {
+    color: #A0A0A0;
+}

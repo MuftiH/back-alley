@@ -1,0 +1,25 @@
+.navbar {
+    font-size: 1.1em;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    border: 1.5px solid black;
+    border-left: none;
+    border-right: none;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    font-family: 'Jost', sans-serif;
+}
+
+.navbar li {
+    text-transform: uppercase;
+    flex: 0 1 7.4rem;
+    text-align: center;
+    color: black;
+    transition: color 0.25s;
+    text-decoration: none;
+}
+
+.navbar li:hover {
+    color: gray;
+}

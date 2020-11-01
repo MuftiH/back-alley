@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter&family=Jost&display=swap');
+
+.main {
+  font-family: 'Jost', sans-serif;
+  max-width: 75rem;
+  padding: 2rem;
+  margin: auto;
+}
+
+.mainSection {
+  max-width: 75rem;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  border-style: solid;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: solid;
+}

@@ -1,0 +1,27 @@
+.mainArticle {
+    padding-top: 3rem;
+    padding-bottom: 14rem;
+    font-family: 'Jost', sans-serif;
+    font-size: 1.5em;
+}
+
+.mainArticle img {
+    object-fit: cover;
+    width:800px;
+    height: 550px
+}
+
+.articleTitle {
+    font-weight: 500;
+    font-weight: bold;
+    max-width: 800px;
+    margin: 0;
+    text-transform: capitalize;
+}
+
+.authorName {
+    text-transform: uppercase;
+    color: gray;
+    margin: 0;
+    font-size: 0.7em;
+}

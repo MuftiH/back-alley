@@ -1,0 +1,15 @@
+.logoContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.logo {
+    font-family: 'Jost', serif;
+    text-transform: uppercase;
+    text-align: left;
+    margin: auto;
+    font-size: 3.25em;
+    line-height: 100%; 
+    align-self: center;
+}
+
